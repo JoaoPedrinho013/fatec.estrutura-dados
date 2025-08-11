@@ -1,6 +1,6 @@
 # Estrutura de Dados – Fatec
 
-Este repositório contém todos os exercícios e trabalhos desenvolvidos na disciplina **Estrutura de Dados** da Fatec, ministrada pela professora **Fernanda**.
+Este repositório contém todos os exercícios e trabalhos desenvolvidos na disciplina **Estrutura de Dados** da Fatec, ministrada pela professora **Fernanda Schimitz De Almeida Larguesa**.
 
 ## Estrutura do Repositório
 
@@ -21,4 +21,4 @@ trabalhos/
 
 **Disciplina:** Estrutura de Dados  
 **Instituição:** Fatec Praia Grande  
-**Professora:** Fernanda
+**Professora:** Fernanda Schimitz De Almeida Larguesa
