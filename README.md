@@ -6,6 +6,11 @@ Este repositório contém todos os exercícios e trabalhos desenvolvidos na disc
 
 O conteúdo está organizado nas pastas abaixo, contendo as atividades e trabalhos passados pela professora.
 ```
+aulas/
+├── aula-1/
+├── aula-2/
+└── ...
+
 atividades/
 ├── atividade-1/
 ├── atividade-2/
